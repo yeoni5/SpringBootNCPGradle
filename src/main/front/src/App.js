@@ -4,6 +4,7 @@ const App = () => {
   return (
     <div>
       <h1>Spring Boot + React + NCP Test !!</h1>
+      <h3>카운트 : 2</h3>
       <img src='./image/mangsang.gif' alt='mangsang' />
     </div>
   );
